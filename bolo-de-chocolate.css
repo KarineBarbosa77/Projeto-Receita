@@ -1,0 +1,18 @@
+body{
+    width: 1000px;
+    background-color: antiquewhite;
+    margin: auto; /* o auto é de automático, acabou centralizando a página*/
+    font-size: 120%; /*Ajusta o tamanho da fonte*/
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: Arial, Helvetica, sans-serif; /*Altera a fonte do texto*/
+    color: brown; /*Esse muda a cor dos títulos*/
+}
+
+
+img {
+    height: 390px;
+    object-fit: cover; /*Corta a imagem*/
+    object-position: 0% 20%; /*posiciona a imagem*/
+}

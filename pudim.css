@@ -1,0 +1,23 @@
+header, main{
+    width: 80vw;
+    margin: auto;
+
+}
+
+h1,h2,h3,h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img-capa{
+    width: 80vw; /* 80% da largaru da visão (viewport width)*/
+    height: 370px;
+    object-fit: cover; /*Ajusta a imagem em um quadro*/
+    box-shadow: 4px 4px 4px #5555; /*sombra*/
+}
+
+.img-ingredientes{
+    width: 400px;
+    height: 250px;
+    object-fit: cover;
+    box-shadow: 2px 2px 2px #5555;
+}
